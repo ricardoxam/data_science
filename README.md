@@ -5,7 +5,7 @@
 </p>
 
 # Ricardo Max
-<sub>*Física e entusiasta por data science</sub>
+<sub>* Físico e entusiasta por data science</sub>
 
 Sou formado em física pela Universidade Federal de Sergipe (UFS),atualmente me aprofundei no estudo de data science e realizo alguns projetos na área como forma de obter mais conhecimento e possibilitar a utilização de uma visão mais científica para a solução de problemas. 
 
